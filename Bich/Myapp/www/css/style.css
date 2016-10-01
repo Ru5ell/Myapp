@@ -1,0 +1,44 @@
+/* Empty. Add your own CSS if you like */
+.padding{
+	background: url("http://www.fondox.net/wallpapers/textura-verde-turquesa-1575.jpg")center no-repeat fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+}
+
+h1{
+	
+	font-size: 20px;
+	color: White !important;
+	font-family: "Comic Sans MS", cursive, sans-serif	
+ !important;
+}
+
+h2{
+	
+	font-size: 20px;
+	color: Black !important;
+	font-family: "Comic Sans MS", cursive, sans-serif	
+ !important;
+}
+
+.pato{
+	text-align: center;
+	font-size: 20px;
+	color: Black !important;
+	font-family: "Comic Sans MS", cursive, sans-serif	
+ !important;
+}
+
+.pit{
+	.pato{
+	text-align: center;
+	font-size: 20px;
+	color: White !important;
+	font-family: "Comic Sans MS", cursive, sans-serif	
+ !important;
+}
+
+}
+
